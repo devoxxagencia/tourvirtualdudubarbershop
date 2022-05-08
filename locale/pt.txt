@@ -1,0 +1,25 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Dudu Barber Shop
+
+## Media
+
+### Title
+panorama_A90BF536_A0FA_1366_4193_89A0BFCED5BE.label = IMG_7426 copiar (1)
+panorama_A91516A8_A0FA_316B_417D_50F16D4150DB.label = IMG_7427 copiar (1)
+panorama_AD57F457_A0FA_1125_41E0_F41C3C626826.label = IMG_7425 copiar (2)
+
+## Action
+
+### URL
+LinkBehaviour_81D0E5BC_962B_273A_41CE_139A000E1816.source = https://www.instagram.com/dudubarbershopp/
+LinkBehaviour_B0546640_A13A_111B_41E0_0A71137C457D.source = https://api.whatsapp.com/send?phone=5562984572882&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20sal%C3%A3o!
+LinkBehaviour_B0743957_A13E_3325_41C7_3515025AFD71.source = https://www.google.com/maps/dir//DUDU+BARBER+SHOP+-+Av.+Rio+Vermelho+-+Condom%C3%ADnio+das+Esmeraldas,+Goi%C3%A2nia+-+GO,+74355-455/@-16.7876088,-49.3667854,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef80dca22af77:0x2ccb3913b6dc5366!2m2!1d-49.3580307!2d-16.7876
+LinkBehaviour_B3916AC8_A10A_712B_41C3_D6025A3CE9E4.source = https://www.instagram.com/dudubarbershopp/
+LinkBehaviour_B3917AD2_A10A_713F_41D8_A43E472B7007.source = https://api.whatsapp.com/send?phone=5562984572882&text=Ol%C3%A1%2C%20vim%20do%20seu%20Tour%20Virtual%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20sal%C3%A3o!
+LinkBehaviour_B3924ACF_A10A_7125_419A_C9FCDE9DAD05.source = https://www.google.com/maps/dir//DUDU+BARBER+SHOP+-+Av.+Rio+Vermelho+-+Condom%C3%ADnio+das+Esmeraldas,+Goi%C3%A2nia+-+GO,+74355-455/@-16.7876088,-49.3667854,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x935ef80dca22af77:0x2ccb3913b6dc5366!2m2!1d-49.3580307!2d-16.7876
